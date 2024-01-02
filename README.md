@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student. C, C++, Python, Javascript, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in Web Development, UIUX Design, and Problem Solving**
 - 🌱 I’m currently learning ...
   - Python
   - Django
